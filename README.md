@@ -2,7 +2,7 @@
 
 # ♡ JERUSHA THAVER
 
-### `software developer` · `creative technologist` · `problem solver`
+###   `ux/ui designer` · `software developer` · `creative technologist`
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20SOMETHING%20COOL-ff7eb6?style=for-the-badge&labelColor=171321" />
 
@@ -20,34 +20,13 @@
 
 ---
 
-## ♡ `whoami`
+## ♡ `who am i?`
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   > whoami                                                 │
-│                                                            │
-│   Jerusha Thaver                                            │
-│   Computer Science Student                                 │
-│   Software Developer                                       │
-│   Creative Builder                                         │
-│                                                            │
-│   > mission                                                 │
-│                                                            │
-│   Build things that are useful, interactive,               │
-│   visually interesting, and just a little bit fun.         │
-│                                                            │
-│   > current_status                                          │
-│                                                            │
-│   ● learning                                                │
-│   ● building                                                │
-│   ● experimenting                                           │
-│   ● probably debugging                                     │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+  <img src="./assets/whoami.svg" width="700" alt="Jerusha Thaver - whoami" />
+</p>
 
-I'm a Computer Science student who enjoys turning ideas into **websites, applications, interactive experiences and games**.
+I'm a Multimedia student who enjoys turning ideas into **websites, applications, interactive experiences and games**.
 
 I enjoy working across both the technical and creative sides of development — from backend systems and databases to UI design, animations and interactive experiences.
 
