@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/MULTIMEDIA-STUDENT-b58cff?style=flat-square&labelColor=211a2d" />
 <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-ff7eb6?style=flat-square&labelColor=211a2d" />
-<img src="https://img.shields.io/badge/CREATIVE-TECHNOLOGY-d8c4ff?style=flat-square&labelColor=211a2d" />
+<img src="https://img.shields.io/badge/CREATIVE-TECHNOLOGY-b58cff?style=flat-square&labelColor=211a2d" />
 
 <br><br>
 
@@ -367,8 +367,9 @@ I'm interested in opportunities where I can:
   <img src="https://img.shields.io/badge/LINKEDIN-b58cff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=211a2d" />
 </a>
 
+
 <a href="mailto:thaverjerusha19@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-d8c4ff?style=for-the-badge&logo=gmail&logoColor=211a2d&labelColor=211a2d" />
+  <img src="https://img.shields.io/badge/EMAIL-211a2d?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -386,7 +387,7 @@ I'm interested in opportunities where I can:
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JerushaThaver&color=ff7eb6&style=flat-square&label=PROFILE+VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=JerushaThaver&color=b58cff&style=flat-square&label=PROFILE+VISITORS" />
 </p>
 
 </div>
