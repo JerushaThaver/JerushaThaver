@@ -366,6 +366,8 @@ I'm interested in opportunities where I can:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff7eb6&style=flat-square&label=PROFILE+VISITORS" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JerushaThaver&color=ff7eb6&style=flat-square&label=PROFILE+VISITORS" />
+</p>
 
 </div>
