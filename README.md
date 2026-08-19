@@ -118,11 +118,11 @@ I especially like projects where I can combine **code + design + problem solving
 ---
 
 
-<!--
+
 # ✦ `project universe`
 
 > A few things I've built, experimented with, or am currently working on.
-
+<!--
 <br>
 
 ### 🌸 BLOOMSET
@@ -154,7 +154,8 @@ I especially like projects where I can combine **code + design + problem solving
 **→ [View Project](YOUR_BLOOMSET_LINK)**
 
 ---
-
+-->
+<!--
 ### 🎮 UNITY PROJECTS
 
 ```text
@@ -184,19 +185,19 @@ I've been exploring:
 **→ [View Unity Projects](YOUR_UNITY_REPOSITORY)**
 
 ---
-
-### 📱 MOBILE APPLICATIONS
+-->
+### 📱 HobbiQuest
 
 ```text
 ╭──────────────────────────────────────────────────────╮
-│  PROJECT 03                                           │
+│  PROJECT 01                                          │
 │                                                      │
-│  MOBILE APPLICATIONS                                  │
-│  ───────────────────                                  │
-│  Building mobile experiences with modern             │
-│  application development tools.                      │
+│  MOBILE APPLICATIONS                                 │
+│  ───────────────────                                 │
+│  A mobile app where you explore one hobby            │
+│  for each letter of the alphabet                     │
 │                                                      │
-│  React • Expo • JavaScript                            │
+│  React • Expo • JavaScript                           │
 │                                                      │
 │  ● BUILDING                                          │
 ╰──────────────────────────────────────────────────────╯
@@ -207,14 +208,21 @@ Areas I've explored:
 * Mobile UI
 * Application navigation
 * Interactive interfaces
-* API integration
 * React-based development
 * Expo
+
+  Features:
+
+* A–Z progress grid
+* Photo capture or gallery picker
+* Hobby name, rating & notes
+* Offline storage with AsyncStorage
+* Progress tracker (x / 26)
 
 **→ [View Projects](YOUR_MOBILE_PROJECT_LINK)**
 
 ---
--->
+
 
 <!--# 🐝 `the little lab`
 
