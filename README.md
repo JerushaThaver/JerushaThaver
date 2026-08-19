@@ -281,13 +281,14 @@ to
 
 ---
 
-# ⌁↗ `github activity`
+# ◕ `github activity`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=ff7eb6&icon_color=b58cff&text_color=f8f4ff" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d0b14&title_color=ff7eb6&text_color=f8f4ff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JerushaThaver&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=ff7eb6&icon_color=b58cff&text_color=f8f4ff" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerushaThaver&layout=compact&hide_border=true&bg_color=0d0b14&title_color=ff7eb6&text_color=f8f4ff" height="170"/>
 
 </div>
 
