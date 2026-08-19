@@ -325,7 +325,7 @@ to
 
 ---
 
-# 🌷 `what i'm looking for`
+# ❀ `what i'm looking for`
 
 I'm interested in opportunities where I can:
 
