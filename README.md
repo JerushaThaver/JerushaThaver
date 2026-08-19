@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Multimedia-STUDENT-b58cff?style=flat-square&labelColor=211a2d" />
+<img src="https://img.shields.io/badge/MULTIMEDIA-STUDENT-b58cff?style=flat-square&labelColor=211a2d" />
 <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-ff7eb6?style=flat-square&labelColor=211a2d" />
 <img src="https://img.shields.io/badge/CREATIVE-TECHNOLOGY-d8c4ff?style=flat-square&labelColor=211a2d" />
 
