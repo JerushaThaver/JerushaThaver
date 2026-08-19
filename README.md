@@ -23,7 +23,7 @@
 ## ♡ `who am i?`
 
 <p align="center">
-  <img src="./assets/whoami.svg" width="700" alt="Jerusha Thaver - whoami" />
+  <img src="assets/whoami.svg" alt="Jerusha.exe">
 </p>
 
 I'm a Multimedia student who enjoys turning ideas into **websites, applications, interactive experiences and games**.
