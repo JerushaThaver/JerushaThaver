@@ -41,7 +41,7 @@ I especially like projects where I can combine **code + design + problem solving
 | 🎓 **Studying**           | BIS Multimedia                         |
 | 💻 **Building**           | Web, mobile & interactive applications |
 | 🎨 **Exploring**          | Creative development & UI/UX           |
-| 🧠 **Learning**           | AI, VR & full-stack development        |
+| 🧠 **Learning**           | VR & full-stack development            |
 | 🎮 **Experimenting with** | Unity & interactive experiences        |
 | ☕ **Status**              | `coffee → code → debug → repeat`       |
 
