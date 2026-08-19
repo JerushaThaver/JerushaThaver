@@ -96,6 +96,29 @@ I especially like projects where I can combine **code + design + problem solving
 
 ---
 
+# ◕ `github activity`
+
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=JerushaThaver&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=ff7eb6&icon_color=b58cff&text_color=f8f4ff" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerushaThaver&layout=compact&hide_border=true&bg_color=0d0b14&title_color=ff7eb6&text_color=f8f4ff" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d0b14&ring=ff7eb6&fire=b58cff&currStreakLabel=ff7eb6&sideLabels=d8c4ff&currStreakNum=f8f4ff&sideNums=f8f4ff&dates=aaa0b8" />
+
+</div>
+
+---
+
+
+<!--
 # ✦ `project universe`
 
 > A few things I've built, experimented with, or am currently working on.
@@ -191,6 +214,7 @@ Areas I've explored:
 **→ [View Projects](YOUR_MOBILE_PROJECT_LINK)**
 
 ---
+-->
 
 <!--# 🐝 `the little lab`
 
@@ -227,16 +251,16 @@ I like experimenting with ideas before worrying about whether they're "serious" 
 
 **Software Development / Technology**
 
-During my vacation work experience, I gained exposure to a professional software development environment and worked alongside experienced developers.
+During my vacation work experience, I gained exposure to a professional software development environment and worked alongside aspiring developers.
 
 Some of the areas I was exposed to included:
 
 * Software development practices
 * Professional development workflows
-* Working with existing codebases
+* UI design
+* Frontend development
 * Problem solving
 * Team collaboration
-* Learning within a professional engineering environment
 
 `● EXPERIENCE`
 
@@ -281,45 +305,27 @@ to
 
 ---
 
-# ◕ `github activity`
-
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=JerushaThaver&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=ff7eb6&icon_color=b58cff&text_color=f8f4ff" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerushaThaver&layout=compact&hide_border=true&bg_color=0d0b14&title_color=ff7eb6&text_color=f8f4ff" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d0b14&ring=ff7eb6&fire=b58cff&currStreakLabel=ff7eb6&sideLabels=d8c4ff&currStreakNum=f8f4ff&sideNums=f8f4ff&dates=aaa0b8" />
-
-</div>
-
----
 
 # ♡ `random things about me`
 
 ```text
 ╭──────────────────────────────────────────────╮
-│                                              │
-│  ✦ I like making interfaces feel alive      │
-│                                              │
-│  ✦ I enjoy mixing development + design      │
-│                                              │
-│  ✦ I will probably animate something        │
-│    that didn't technically need animation   │
-│                                              │
-│  ✦ I like experimenting with new tech       │
-│                                              │
-│  ✦ I enjoy turning ideas into real things    │
-│                                              │
-│  ✦ coffee → code → debug → repeat            │
-│                                              │
+                                              
+   ✦ I took a solo trip to a new country       
+   for my 21st birthday ✈                      
+                                                
+   ✦ I’d love to explore the future of          
+   fashion through technology & design            
+   
+   ✦ Travelling is one of my favourite ways 
+   to get inspired 
+   
+   ✦ I get weirdly excited about tiny 
+   design details 
+   
+   ✦ I’m currently trying to collect as many 
+   interesting experiences as possible  
+ 
 ╰──────────────────────────────────────────────╯
 ```
 
@@ -343,10 +349,10 @@ I'm interested in opportunities where I can:
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
+<!-- <a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/♡%20PORTFOLIO-ff7eb6?style=for-the-badge&labelColor=211a2d" />
 </a>
-
+-->
 <a href="https://www.linkedin.com/in/jerusha-thaver-896885284">
   <img src="https://img.shields.io/badge/LINKEDIN-b58cff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=211a2d" />
 </a>
