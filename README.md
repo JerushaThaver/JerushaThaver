@@ -358,11 +358,11 @@ I'm interested in opportunities where I can:
 # ✦ `let's connect`
 
 <div align="center">
-
-<!-- <a href="YOUR_PORTFOLIO_LINK">
+  
+ <a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/♡%20PORTFOLIO-ff7eb6?style=for-the-badge&labelColor=211a2d" />
 </a>
--->
+
 <a href="https://www.linkedin.com/in/jerusha-thaver-896885284">
   <img src="https://img.shields.io/badge/LINKEDIN-b58cff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=211a2d" />
 </a>
