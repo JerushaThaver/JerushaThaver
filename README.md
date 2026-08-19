@@ -211,7 +211,9 @@ Areas I've explored:
 * React-based development
 * Expo
 
-  Features:
+  
+<br>
+Features:
 
 * A–Z progress grid
 * Photo capture or gallery picker
@@ -219,7 +221,7 @@ Areas I've explored:
 * Offline storage with AsyncStorage
 * Progress tracker (x / 26)
 
-**→ [View Projects](YOUR_MOBILE_PROJECT_LINK)**
+**→  [View Repository](https://github.com/JerushaThaver/HobbiQuest)**
 
 ---
 
