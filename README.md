@@ -192,7 +192,7 @@ Areas I've explored:
 
 ---
 
-# 🐝 `the little lab`
+<!--# 🐝 `the little lab`
 
 Not everything needs to become a huge project.
 
@@ -216,7 +216,7 @@ Sometimes I just want to make something weird.
 ```
 
 I like experimenting with ideas before worrying about whether they're "serious" projects.
-
+-->
 ---
 
 # ✿ `experience`
