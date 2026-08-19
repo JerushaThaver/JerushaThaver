@@ -1,1 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Jerusha.exe profile terminal</title>
+  <desc id="desc">A pink and purple kawaii terminal window introducing Jerusha Thaver as a multimedia student, software developer and creative builder.</desc>
 
+  <defs>
+    <linearGradient id="header" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8f3f91"/>
+      <stop offset="1" stop-color="#d56fc4"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff9bd8"/>
+      <stop offset=".5" stop-color="#e879c8"/>
+      <stop offset="1" stop-color="#b96ee9"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: "Courier New", monospace; }
+      .pixel { font-family: "Courier New", monospace; font-weight: 700; }
+      .white { fill:#fff4ff; }
+      .pink { fill:#ff82d2; }
+      .lav { fill:#d39aff; }
+      .line { fill:none; stroke:#ed78cf; stroke-width:3; }
+    </style>
+  </defs>
+
+  <!-- Main terminal -->
+  <rect x="16" y="16" width="1168" height="728" rx="30" fill="#10081e" stroke="url(#border)" stroke-width="7"/>
+  <rect x="27" y="27" width="1146" height="95" rx="23" fill="url(#header)"/>
+  <path d="M27 121H1173" stroke="#ff9bd8" stroke-width="3" stroke-dasharray="5 6"/>
+
+  <!-- Header -->
+  <text x="62" y="91" font-size="43" class="white mono">♡</text>
+  <text x="118" y="84" font-size="36" class="white pixel">JERUSHA.exe</text>
+  <circle cx="1007" cy="72" r="20" fill="#f47bbd" stroke="#180c25" stroke-width="2"/>
+  <circle cx="1060" cy="72" r="20" fill="#f39bd8" stroke="#180c25" stroke-width="2"/>
+  <circle cx="1113" cy="72" r="20" fill="#c899ef" stroke="#180c25" stroke-width="2"/>
+
+  <!-- Decorative sparkles -->
+  <g class="pink" filter="url(#glow)">
+    <text x="55" y="208" font-size="36">✦</text>
+    <text x="62" y="302" font-size="27">✦</text>
+    <text x="1080" y="214" font-size="32">✦</text>
+    <text x="1110" y="265" font-size="22">✦</text>
+    <text x="1065" y="480" font-size="30">✦</text>
+  </g>
+  <g class="lav">
+    <text x="1090" y="340" font-size="24">✦</text>
+    <text x="74" y="410" font-size="20">✦</text>
+    <text x="1025" y="305" font-size="22">✦</text>
+  </g>
+
+  <!-- whoami -->
+  <text x="118" y="192" font-size="36" class="pink pixel">$</text>
+  <text x="162" y="192" font-size="34" class="white pixel">whoami</text>
+  <rect x="304" y="166" width="15" height="34" fill="#c98df0"/>
+
+  <!-- Profile panel -->
+  <rect x="110" y="225" width="980" height="275" rx="20" class="line"/>
+  <text x="145" y="286" font-size="30" class="pink pixel">✦ Jerusha Thaver</text>
+
+  <!-- Tree connectors -->
+  <path d="M150 335V458M150 350H188M150 404H188M150 458H188" stroke="#ed78cf" stroke-width="3" fill="none"/>
+
+  <!-- Laptop icon -->
+  <g transform="translate(198 330)" fill="#c991f1" stroke="#c991f1">
+    <rect x="0" y="0" width="43" height="30" rx="3" fill="none" stroke-width="4"/>
+    <path d="M-7 35H50L56 42H-13Z" stroke-width="3"/>
+  </g>
+  <text x="270" y="365" font-size="28" class="white mono">Multimedia Student</text>
+
+  <!-- Code icon -->
+  <text x="196" y="423" font-size="36" class="lav pixel">&lt;/&gt;</text>
+  <text x="270" y="419" font-size="28" class="white mono">Software Developer</text>
+
+  <!-- Palette icon -->
+  <g transform="translate(200 438)">
+    <circle cx="25" cy="25" r="25" fill="#f07cc9"/>
+    <circle cx="15" cy="17" r="4" fill="#180c25"/>
+    <circle cx="27" cy="11" r="4" fill="#180c25"/>
+    <circle cx="39" cy="18" r="4" fill="#180c25"/>
+    <circle cx="17" cy="30" r="4" fill="#180c25"/>
+    <circle cx="37" cy="34" r="7" fill="#180c25"/>
+  </g>
+  <text x="270" y="476" font-size="28" class="white mono">Creative Builder</text>
+
+  <!-- status -->
+  <text x="118" y="570" font-size="36" class="pink pixel">$</text>
+  <text x="162" y="570" font-size="34" class="white pixel">status</text>
+  <rect x="298" y="544" width="15" height="34" fill="#c98df0"/>
+
+  <rect x="128" y="600" width="955" height="82" rx="18" class="line"/>
+
+  <circle cx="180" cy="641" r="12" fill="#ed75c7"/>
+  <text x="210" y="652" font-size="27" class="white mono">learning</text>
+
+  <circle cx="490" cy="641" r="12" fill="#c991f1"/>
+  <text x="520" y="652" font-size="27" class="white mono">building</text>
+
+  <circle cx="775" cy="641" r="12" fill="#f1a3dc"/>
+  <text x="805" y="652" font-size="27" class="white mono">experimenting</text>
+
+  <!-- Bottom command -->
+  <text x="135" y="718" font-size="29" class="lav pixel">♡ ~/dreams</text>
+  <rect x="320" y="694" width="14" height="31" fill="#c98df0"/>
+
+  <!-- Flowers -->
+  <g transform="translate(55 675)">
+    <path d="M0 69C8 40 15 22 31 0" stroke="#9e5b91" stroke-width="4" fill="none"/>
+    <circle cx="31" cy="0" r="11" fill="#ffd0ef"/>
+    <circle cx="31" cy="0" r="5" fill="#ffd45c"/>
+    <circle cx="17" cy="25" r="9" fill="#ff9bd8"/>
+    <circle cx="47" cy="38" r="9" fill="#ff9bd8"/>
+    <path d="M12 42L-1 33M22 29L35 20" stroke="#9e5b91" stroke-width="4"/>
+  </g>
+
+  <!-- Cute bee -->
+  <g transform="translate(940 685)">
+    <path d="M55 18C95 40 108 67 130 65C151 63 155 43 145 30" stroke="#ed78cf" stroke-width="3" fill="none" stroke-dasharray="8 7"/>
+    <path d="M126 65c18 13 37 9 44-5" stroke="#ed78cf" stroke-width="3" fill="none"/>
+    <ellipse cx="60" cy="45" rx="45" ry="31" fill="#f3b83f" stroke="#5c2d4f" stroke-width="3"/>
+    <path d="M40 18C29-5 1 2 9 25C16 42 34 38 40 30Z" fill="#fff0ff" stroke="#5c2d4f" stroke-width="3"/>
+    <path d="M72 19C85-4 109 6 99 29C92 42 78 36 70 30Z" fill="#fff0ff" stroke="#5c2d4f" stroke-width="3"/>
+    <path d="M35 24L80 65M45 17L89 56" stroke="#5c2d4f" stroke-width="9"/>
+    <circle cx="45" cy="40" r="4" fill="#5c2d4f"/>
+    <circle cx="69" cy="40" r="4" fill="#5c2d4f"/>
+    <path d="M49 51Q57 59 65 51" stroke="#5c2d4f" stroke-width="3" fill="none"/>
+    <circle cx="28" cy="50" r="6" fill="#ff7fbd" opacity=".7"/>
+    <circle cx="84" cy="50" r="6" fill="#ff7fbd" opacity=".7"/>
+    <path d="M28 14L19 2M83 13L91 2" stroke="#5c2d4f" stroke-width="3"/>
+    <circle cx="18" cy="1" r="4" fill="#f3b83f"/>
+    <circle cx="92" cy="1" r="4" fill="#f3b83f"/>
+  </g>
+</svg>
