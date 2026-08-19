@@ -281,7 +281,7 @@ to
 
 ---
 
-# 📊 `github activity`
+# ⌁↗ `github activity`
 
 <div align="center">
 
