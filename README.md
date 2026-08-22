@@ -28,7 +28,7 @@
 
 I'm a Multimedia student who enjoys turning ideas into **websites, applications, interactive experiences and games**.
 
-I enjoy working across both the technical and creative sides of development — from backend systems and databases to UI design, animations and interactive experiences.
+I enjoy working across both the technical and creative sides of development - from backend systems and databases to UI design, animations and interactive experiences.
 
 I especially like projects where I can combine **code + design + problem solving**.
 
