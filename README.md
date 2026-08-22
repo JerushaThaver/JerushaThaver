@@ -36,14 +36,14 @@ I especially like projects where I can combine **code + design + problem solving
 
 ## ✦ `currently`
 
-|                           |                                        |
-| ------------------------- | -------------------------------------- |
-| 🎓 **Studying**           | BIS Multimedia                         |
-| 💻 **Building**           | Web, mobile & interactive applications |
-| 🎨 **Exploring**          | Creative development & UI/UX           |
-| 🧠 **Learning**           | VR & full-stack development            |
-| 🎮 **Experimenting with** | Unity & interactive experiences        |
-| ☕ **Status**              | `coffee → code → debug → repeat`       |
+|                           |                                          |
+| ------------------------- | -----------------------------------------|
+| 🎓 **Studying**           | BIS Multimedia                           |
+| 💻 **Building**           | Web, mobile & interactive applications   |
+| 🎨 **Exploring**          | Creative development & UI/UX             |
+| 🧠 **Learning**           | VR & full-stack development              |
+| 🎮 **Experimenting with** | Unity & interactive experiences          |
+| 🎀 **Status**             |`coding → creating → side quests → repeat`|
 
 ---
 
