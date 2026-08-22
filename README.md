@@ -195,6 +195,8 @@ I've been exploring:
 
 ---
 -->
+
+<!--
 ### 📱 HobbiQuest
 
 ```text
@@ -233,7 +235,7 @@ Features:
 **→  [View Repository](https://github.com/JerushaThaver/HobbiQuest)**
 
 ---
-
+-->
 
 <!--# 🐝 `the little lab`
 
@@ -263,7 +265,7 @@ I like experimenting with ideas before worrying about whether they're "serious" 
 ---
 -->
 
-
+<!--
 # ✿ `experience`
 
 ### Gendac — Student Vacation Work Programme
@@ -363,6 +365,7 @@ I'm interested in opportunities where I can:
 * Contribute to a collaborative team
 
 ---
+-->
 
 # ✦ `let's connect`
 
