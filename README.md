@@ -62,6 +62,7 @@ I especially like projects where I can combine **code + design + problem solving
 <img src="https://img.shields.io/badge/HTML5-211a2d?style=for-the-badge&logo=html5&logoColor=ff7eb6" />
 <img src="https://img.shields.io/badge/CSS3-211a2d?style=for-the-badge&logo=css3&logoColor=d8c4ff" />
 <img src="https://img.shields.io/badge/XQuery-211a2d?style=for-the-badge&logoColor=ffb7d5" />
+  <img src="https://img.shields.io/badge/PHP-211a2d?style=for-the-badge&logo=php&logoColor=d8c4ff" />
 </p>
 
 ### ✦ Frameworks & Platforms
