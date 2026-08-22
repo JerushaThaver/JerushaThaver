@@ -126,12 +126,12 @@ I especially like projects where I can combine **code + design + problem solving
 
 ---
 
-
+<!--
 
 # ✦ `project universe`
 
 > A few things I've built, experimented with, or am currently working on.
-<!--
+
 <br>
 
 ### 🌸 BLOOMSET
