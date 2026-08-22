@@ -98,7 +98,7 @@ I especially like projects where I can combine **code + design + problem solving
 
 # ◕ `github activity`
 
-<div align="center">
+<!-- <div align="center">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=JerushaThaver&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=ff7eb6&icon_color=b58cff&text_color=f8f4ff" height="170"/>
@@ -107,11 +107,14 @@ I especially like projects where I can combine **code + design + problem solving
 
 </div>
 
-<br>
+<br> -->
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d0b14&ring=ff7eb6&fire=b58cff&currStreakLabel=ff7eb6&sideLabels=d8c4ff&currStreakNum=f8f4ff&sideNums=f8f4ff&dates=aaa0b8" />
+
+<a href="https://github.com/JerushaThaver">
+  <img src="https://streak-stats.demolab.com?user=JerushaThaver&stroke=ff7eb6&background=0d0b14&ring=ff7eb6&fire=b58cff&currStreakNum=f8f4ff&currStreakLabel=ff7eb6&sideNums=f8f4ff&sideLabels=d8c4ff&dates=aaa0b8&hide_border=true"/>
+</a>
 
 </div>
 
