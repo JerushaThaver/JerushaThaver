@@ -390,7 +390,7 @@ I'm interested in opportunities where I can:
 
 🐝
 
-*go build something you think is cool.*
+*go create something you think is cool.*
 
 <br>
 
