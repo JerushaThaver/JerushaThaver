@@ -53,35 +53,40 @@ I especially like projects where I can combine **code + design + problem solving
 
 <p>
 <img src="https://img.shields.io/badge/C%2B%2B-211a2d?style=for-the-badge&logo=cplusplus&logoColor=ffb7d5" />
+<img src="https://img.shields.io/badge/C-211a2d?style=for-the-badge&logo=c&logoColor=d8c4ff" />
 <img src="https://img.shields.io/badge/Java-211a2d?style=for-the-badge&logo=openjdk&logoColor=ffb7d5" />
 <img src="https://img.shields.io/badge/Python-211a2d?style=for-the-badge&logo=python&logoColor=d8c4ff" />
 <img src="https://img.shields.io/badge/JavaScript-211a2d?style=for-the-badge&logo=javascript&logoColor=ffb7d5" />
 <img src="https://img.shields.io/badge/TypeScript-211a2d?style=for-the-badge&logo=typescript&logoColor=d8c4ff" />
-<img src="https://img.shields.io/badge/SQL-211a2d?style=for-the-badge&logo=postgresql&logoColor=ffb7d5" />
 <img src="https://img.shields.io/badge/C%23-211a2d?style=for-the-badge&logo=csharp&logoColor=d8c4ff" />
 <img src="https://img.shields.io/badge/HTML5-211a2d?style=for-the-badge&logo=html5&logoColor=ff7eb6" />
 <img src="https://img.shields.io/badge/CSS3-211a2d?style=for-the-badge&logo=css3&logoColor=d8c4ff" />
+<img src="https://img.shields.io/badge/XQuery-211a2d?style=for-the-badge&logoColor=ffb7d5" />
 </p>
 
 ### ✦ Frameworks & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/React-211a2d?style=for-the-badge&logo=react&logoColor=61dafb" />
-<img src="https://img.shields.io/badge/Next.js-211a2d?style=for-the-badge&logo=next.js&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Vue.js-211a2d?style=for-the-badge&logo=vuedotjs&logoColor=42b883" />
+<img src="https://img.shields.io/badge/Angular-211a2d?style=for-the-badge&logo=angular&logoColor=dd0031" />
 <img src="https://img.shields.io/badge/Node.js-211a2d?style=for-the-badge&logo=node.js&logoColor=8cc84b" />
-<img src="https://img.shields.io/badge/Django-211a2d?style=for-the-badge&logo=django&logoColor=9fe3b0" />
-<img src="https://img.shields.io/badge/Spring%20Boot-211a2d?style=for-the-badge&logo=springboot&logoColor=8ee4af" />
-<img src="https://img.shields.io/badge/Flutter-211a2d?style=for-the-badge&logo=flutter&logoColor=8ac4ff" />
+<img src="https://img.shields.io/badge/Express.js-211a2d?style=for-the-badge&logo=express&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/jQuery-211a2d?style=for-the-badge&logo=jquery&logoColor=78cff5" />
 <img src="https://img.shields.io/badge/Unity-211a2d?style=for-the-badge&logo=unity&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Expo%20Go-211a2d?style=for-the-badge&logo=expo&logoColor=ffffff" />
 </p>
 
 ### ୨୧ Creative & Design
 
 <p>
-<img src="https://img.shields.io/badge/Figma-211a2d?style=for-the-badge&logo=figma&logoColor=ff7eb6" />
 <img src="https://img.shields.io/badge/Blender-211a2d?style=for-the-badge&logo=blender&logoColor=ffb366" />
-<img src="https://img.shields.io/badge/Unity-211a2d?style=for-the-badge&logo=unity&logoColor=d8c4ff" />
-<img src="https://img.shields.io/badge/Android%20Studio-211a2d?style=for-the-badge&logo=androidstudio&logoColor=8ee4af" />
+<img src="https://img.shields.io/badge/Figma-211a2d?style=for-the-badge&logo=figma&logoColor=ff7eb6" />
+<img src="https://img.shields.io/badge/Canva-211a2d?style=for-the-badge&logo=canva&logoColor=8ac4ff" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-211a2d?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff" />
+<img src="https://img.shields.io/badge/Adobe%20Animate-211a2d?style=for-the-badge&logo=adobeanimate&logoColor=ff7eb6" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-211a2d?style=for-the-badge&logo=adobeillustrator&logoColor=ff9a00" />
+<img src="https://img.shields.io/badge/Adobe%20Audition-211a2d?style=for-the-badge&logo=adobeaudition&logoColor=00e4bb" />
 </p>
 
 ### ⌘ Tools & Data
@@ -89,9 +94,9 @@ I especially like projects where I can combine **code + design + problem solving
 <p>
 <img src="https://img.shields.io/badge/Git-211a2d?style=for-the-badge&logo=git&logoColor=ff7eb6" />
 <img src="https://img.shields.io/badge/Docker-211a2d?style=for-the-badge&logo=docker&logoColor=8ac4ff" />
-<img src="https://img.shields.io/badge/Postman-211a2d?style=for-the-badge&logo=postman&logoColor=ffb366" />
 <img src="https://img.shields.io/badge/MySQL-211a2d?style=for-the-badge&logo=mysql&logoColor=8ac4ff" />
-<img src="https://img.shields.io/badge/PostgreSQL-211a2d?style=for-the-badge&logo=postgresql&logoColor=d8c4ff" />
+<img src="https://img.shields.io/badge/MongoDB-211a2d?style=for-the-badge&logo=mongodb&logoColor=47a248" />
+<img src="https://img.shields.io/badge/Postman-211a2d?style=for-the-badge&logo=postman&logoColor=ffb366" />
 </p>
 
 ---
