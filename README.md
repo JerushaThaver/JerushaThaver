@@ -197,7 +197,7 @@ I've been exploring:
 -->
 
 <!--
-### 📱 HobbiQuest
+### 📱 HobbiQuest 
 
 ```text
 ╭──────────────────────────────────────────────────────╮
@@ -214,7 +214,7 @@ I've been exploring:
 ╰──────────────────────────────────────────────────────╯
 ```
 
-Areas I've explored:
+Areas I've explored: 
 
 * Mobile UI
 * Application navigation
@@ -231,7 +231,7 @@ Features:
 * Hobby name, rating & notes
 * Offline storage with AsyncStorage
 * Progress tracker (x / 26)
-
+ when deployed mention it
 **→  [View Repository](https://github.com/JerushaThaver/HobbiQuest)**
 
 ---
