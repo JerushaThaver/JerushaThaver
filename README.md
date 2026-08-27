@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/CREATIVE-TECHNOLOGY-b58cff?style=flat-square&labelColor=211a2d" />
 
 <br><br>
-<!--🐝-->
-<!--🐝-->
+
 🐝 *probably adding an unnecessary animation somewhere*
 
 </div>
